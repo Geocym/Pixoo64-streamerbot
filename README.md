@@ -6,7 +6,7 @@ the pixoo commands v5 file is your main import code
 
 it will add a !pv5 command to your streamerbot setup, everything tags off that
 
-
+```
 !pv5 gif <url to a gif>               //send an online gif to the device, use only 16x16, 32x32 or 64x64 gifs or it will hang
 !pv5 buzzer                           //play a series of beeps
 !pv5 channel <0-3>                    //change the display mode 0=Faces(clock), 1=Cloud(community gif chanenel), 2=Sound Visualiser 3=Custom
@@ -32,4 +32,4 @@ it will add a !pv5 command to your streamerbot setup, everything tags off that
 !pv5 hours <0-1>                      //set 12/24h clock mode (0:12h mode, 1:24h mode)
 !pv5 overdrive <0-1>                  //set high brightness mode (warning make sure you can drive 5V 3A or it will crash)
 !pv5 white <red strength> <green strength> <blue strength>  //set the white balance per colour chanel
-
+```
